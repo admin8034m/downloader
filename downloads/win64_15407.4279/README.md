@@ -6,8 +6,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `win64_15407.4279.exe` |
-| **Total Size** | **4 parts** - **172.78 MB** |
+| **Original File** | `win64_15407.4279.zip` |
+| **Total Size** | **4 parts** - **175.62 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
